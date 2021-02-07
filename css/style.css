@@ -1,0 +1,14 @@
+body {
+    background-color: #00101f;
+}
+
+.col-md-3:hover {
+    cursor: pointer;
+}
+
+.not-found {
+    font-size: 20px;
+    color: rgb(0, 110, 255);
+    font-weight: bold;
+    text-align: center;
+}
